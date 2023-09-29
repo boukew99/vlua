@@ -18,3 +18,6 @@ To use, pass the path to the input Lua file as first argument and the output fil
 ```bash
 python vlua.py examples/factorial.lua --output-file factorial.html
 ```
+
+## Lua Language Reference
+Consult the [Lua Language Reference](https://www.lua.org/manual/5.4/manual.html#3) to understand the [components that are generated](vlua/generator/html_generator.py).
